@@ -1,2 +1,8 @@
 # log-responder
-web server app to respond to incoming log requests for file
+web server to respond to incoming log requests for file
+
+# how to run
+```bash
+go build -o server
+./server
+```
